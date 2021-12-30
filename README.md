@@ -18,6 +18,7 @@ Download the lates relese, or a specific directory if you prefer!
 - python
 - ruby
 - swift
+- r
 
 (also ignore obj and bin, there from c# compilation)
 ## Contrbuting
