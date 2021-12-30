@@ -19,6 +19,7 @@ Download the lates relese, or a specific directory if you prefer!
 - ruby
 - swift
 
+(also ignore obj and bin, there from c# compilation)
 ## Contrbuting
 Yes, feel free to add an arabic language that i do not know the existance of! Also i will be adding personally languages!
 
