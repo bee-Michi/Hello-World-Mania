@@ -1,0 +1,15 @@
+/Users/michi/Desktop/HWM/bin/Debug/net6.0/HWM
+/Users/michi/Desktop/HWM/bin/Debug/net6.0/HWM.deps.json
+/Users/michi/Desktop/HWM/bin/Debug/net6.0/HWM.runtimeconfig.json
+/Users/michi/Desktop/HWM/bin/Debug/net6.0/HWM.dll
+/Users/michi/Desktop/HWM/bin/Debug/net6.0/ref/HWM.dll
+/Users/michi/Desktop/HWM/bin/Debug/net6.0/HWM.pdb
+/Users/michi/Desktop/HWM/obj/Debug/net6.0/HWM.csproj.AssemblyReference.cache
+/Users/michi/Desktop/HWM/obj/Debug/net6.0/HWM.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michi/Desktop/HWM/obj/Debug/net6.0/HWM.AssemblyInfoInputs.cache
+/Users/michi/Desktop/HWM/obj/Debug/net6.0/HWM.AssemblyInfo.cs
+/Users/michi/Desktop/HWM/obj/Debug/net6.0/HWM.csproj.CoreCompileInputs.cache
+/Users/michi/Desktop/HWM/obj/Debug/net6.0/HWM.dll
+/Users/michi/Desktop/HWM/obj/Debug/net6.0/ref/HWM.dll
+/Users/michi/Desktop/HWM/obj/Debug/net6.0/HWM.pdb
+/Users/michi/Desktop/HWM/obj/Debug/net6.0/HWM.genruntimeconfig.cache
