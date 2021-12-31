@@ -1,10 +1,6 @@
 # Hello World Mania
 The ultimate compilations of all hello world programs!
 
-## Installation
-The only way is to run it form src.
-Download the lates relese, or a specific directory if you prefer!
-
 ## List of languages:
 
 - Bash
@@ -20,11 +16,12 @@ Download the lates relese, or a specific directory if you prefer!
 - swift
 - r
 - kotlin
-- go
+- g
 
-(also ignore obj and bin, there from c# compilation)
-## Contrbuting
-Yes, feel free to add an arabic language that i do not know the existance of! Also i will be adding personally languages!
+
+## Testing
+All these files have been compiled/tested once, thoug i have no liability of not working!
+
 
 ## LISENCE
 This project is distributed under the MIT lsicence.
