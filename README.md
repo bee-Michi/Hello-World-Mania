@@ -17,6 +17,7 @@ The ultimate compilations of all hello world programs!
 - r
 - kotlin
 - g
+- F#
 
 
 ## Testing
