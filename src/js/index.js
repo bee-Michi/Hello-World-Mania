@@ -1,5 +1,5 @@
 // In javascript there are two ways to say hello world!
-// Way 1:
+// Way 1, using console:
 console.log("Hello world!");
-// Way 2
-window.alert("Hello world");
+// Way 2, using window alert: 
+window.alert("Hello world!");

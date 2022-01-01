@@ -1,3 +1,7 @@
+// Declere the main function
 fun main(args: Array<String>) {
-    println("Hello, World!")
+    // Use println to print
+    println("Hello World!")
+    // Or just plain print
+    print("Hello World!")
 }

@@ -1,4 +1,2 @@
-﻿
-
-// For more information see https://aka.ms/fsharp-console-apps
+﻿//Just a simple printfn to print hello world!
 printfn "Hello World"
