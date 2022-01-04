@@ -5,18 +5,18 @@ The ultimate compilations of all hello world programs.
 A:
 
 - Applescipt: AppleScript is a scripting language created by Apple Inc.
-B:
 
+B:
 - Bash: Bash is a Unix shell and command language written by Brian Fox for the GNU Project as a free software replacement for the Bourne shell.
 - Batch: A batch file is a script file in DOS, OS/2 and Microsoft Windows.
 - Brainf##k: Brainfuck is an esoteric programming language created in 1993 by Urban Müller.
-C:
 
+C:
 - C: C (/ˈsiː/, as in the letter c) is a general-purpose, procedural computer programming language supporting structured programming, lexical variable scope, and recursion, with a static type system.
 - C#: C# (/si ʃɑːrp/ see sharp)[b] is a general-purpose, multi-paradigm programming language.
 - C++: C++ (/ˌsiːˌplʌsˈplʌs/) is a general-purpose programming language created by Bjarne Stroustrup as an extension of the C programming language, or "C with  Classes".
-D: 
 
+D: 
 -Dart: Dart is a programming language designed for client development, such as for the web and mobile apps.
 
 F: 
