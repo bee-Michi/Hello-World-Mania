@@ -19,6 +19,10 @@ C:
 D: 
 - Dart: Dart is a programming language designed for client development, such as for the web and mobile apps.
 
+E:
+- Elixr: Elixir is a functional, concurrent, general-purpose programming language that runs on the BEAM virtual machine which is also used to implement the Erlang programming language.
+
+
 F: 
 - F#: F# (pronounced F sharp) is a functional-first, general purpose, strongly typed, multi-paradigm programming language that encompasses functional, imperative, and object-oriented programming methods. 
 
