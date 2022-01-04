@@ -31,26 +31,16 @@ H:
 
 J:
 - Java: Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.
-<<<<<<< HEAD
 - Javascript: JavaScript (/ˈdʒɑːvəˌskrɪpt/), often abbreviated JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS.
 
 K:
 - Kotlin: Kotlin (/ˈkɒtlɪn/) is a cross-platform, statically typed, general-purpose programming language with type inference.
-=======
-- Javascript: JavaScript (/ˈdʒɑːvəˌskrɪpt/),[10] often abbreviated JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS.
-
-K:
-- Kotlin: Kotlin (/ˈkɒtlɪn/)[2] is a cross-platform, statically typed, general-purpose programming language with type inference.
->>>>>>> c3a497bc9895d484dcd8367154542179c83e96f5
 
 P:
 - Python: Python is an interpreted high-level general-purpose programming language.
 - Perl: Perl is a family of two high-level, general-purpose, interpreted, dynamic programming languages.
 - Powershell: PowerShell or Microsoft PowerShell (formerly Windows PowerShell) is a task automation and configuration management program from Microsoft, consisting of a command-line shell and the associated scripting language.
-<<<<<<< HEAD
 - Purescript: PureScript is a strongly-typed, purely-functional programming language that compiles to JavaScript.
-=======
->>>>>>> c3a497bc9895d484dcd8367154542179c83e96f5
 
 R:
 - R: R is a programming language for statistical computing and graphics supported by the R Core Team and the R Foundation for Statistical Computing.
@@ -59,20 +49,13 @@ R:
 
 S:
 - Swift: Swift is a general-purpose, multi-paradigm, compiled programming language developed by Apple Inc.
-<<<<<<< HEAD
 - Scala: Scala (/ˈskɑːlɑː/ SKAH-lah) is a strong statically typed general-purpose programming language which supports both object-oriented programming and functional programming.
-=======
->>>>>>> c3a497bc9895d484dcd8367154542179c83e96f5
 
 V: 
 - Vala: Vala is an object-oriented programming language with a self-hosting compiler that generates C code and uses the GObject system. 
 
 Z:
 - ZSH: The Z shell (Zsh) is a Unix shell that can be used as an interactive login shell and as a command interpreter for shell scripting.
-<<<<<<< HEAD
-=======
-
->>>>>>> c3a497bc9895d484dcd8367154542179c83e96f5
 
 ## Testing
 All these files have been compiled/tested once, thoug i have no liability of not working!
