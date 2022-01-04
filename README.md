@@ -15,6 +15,7 @@ C:
 - C: C (/ˈsiː/, as in the letter c) is a general-purpose, procedural computer programming language supporting structured programming, lexical variable scope, and recursion, with a static type system.
 - C#: C# (/si ʃɑːrp/ see sharp) is a general-purpose, multi-paradigm programming language.
 - C++: C++ (/ˌsiːˌplʌsˈplʌs/) is a general-purpose programming language created by Bjarne Stroustrup as an extension of the C programming language, or "C with  Classes".
+- CSS: Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language such as HTML.
 
 D: 
 - Dart: Dart is a programming language designed for client development, such as for the web and mobile apps.
@@ -33,9 +34,13 @@ H:
 - Haskell: Haskell (/ˈhæskəl/) is a general-purpose, statically typed, purely functional programming language with type inference and lazy evaluation.
 - Html: The HyperText Markup Language, or HTML is the standard markup language for documents designed to be displayed in a web browser.
 
+L:
+- Lua (/ˈluːə/ LOO-ə; from Portuguese: lua [ˈlu.(w)ɐ] meaning moon) is a lightweight, high-level, multi-paradigm programming language designed primarily for embedded use in applications.
+
 J:
 - Java: Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.
 - Javascript: JavaScript (/ˈdʒɑːvəˌskrɪpt/), often abbreviated JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS.
+- Julia: Julia is a high-level, high-performance, dynamic programming language.
 
 K:
 - Kotlin: Kotlin (/ˈkɒtlɪn/) is a cross-platform, statically typed, general-purpose programming language with type inference.
@@ -52,8 +57,9 @@ R:
 - Rust: Rust is a multi-paradigm, general-purpose programming language designed for performance and safety, especially safe concurrency.
 
 S:
-- Swift: Swift is a general-purpose, multi-paradigm, compiled programming language developed by Apple Inc.
 - Scala: Scala (/ˈskɑːlɑː/ SKAH-lah) is a strong statically typed general-purpose programming language which supports both object-oriented programming and functional programming.
+- Self: Self is an object-oriented programming language based on the concept of prototypes. 
+- Swift: Swift is a general-purpose, multi-paradigm, compiled programming language developed by Apple Inc.
 
 V: 
 - Vala: Vala is an object-oriented programming language with a self-hosting compiler that generates C code and uses the GObject system. 
