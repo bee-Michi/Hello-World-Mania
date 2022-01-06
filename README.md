@@ -4,6 +4,7 @@ The ultimate compilations of all hello world programs.
 ## List of languages:
 A:
 - Applescipt: AppleScript is a scripting language created by Apple Inc.
+- Assembly: In computer programming, assembly language (or assembler language),sometimes abbreviated asm, is any low-level programming language in which there is a very strong correspondence between the instructions in the language and the architecture's machine code instructions.
 
 
 B:
