@@ -15,7 +15,8 @@ B:
 C:
 - C: C (/ˈsiː/, as in the letter c) is a general-purpose, procedural computer programming language supporting structured programming, lexical variable scope, and recursion, with a static type system.
 - C#: C# (/si ʃɑːrp/ see sharp) is a general-purpose, multi-paradigm programming language.
-- C++: C++ (/ˌsiːˌplʌsˈplʌs/) is a general-purpose programming language created by Bjarne Stroustrup as an extension of the C programming language, or "C with  Classes".
+- C++: C++ (/ˌsiːˌplʌsˈplʌs/) is a general-purpose programming language created by Bjarne Stroustrup as an extension of the C programming language, or "C with  Classes"
+- Cobol: COBOL (/ˈkoʊbɒl, -bɔːl/; an acronym for "common business-oriented language") is a compiled English-like computer programming language designed for business use. 
 - CSS: Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language such as HTML.
 
 D: 
@@ -68,9 +69,7 @@ V:
 Z:
 - ZSH: The Z shell (Zsh) is a Unix shell that can be used as an interactive login shell and as a command interpreter for shell scripting.
 
-## Testing
-All these files have been compiled/tested once, thoug i have no liability of not working!
-
+(definitions taken from wikipidia.)
 
 ## LISENCE
 This project is distributed under the MIT lsicence.
