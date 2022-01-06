@@ -48,6 +48,10 @@ K:
 
 L:
 - Lua (/ˈluːə/ LOO-ə; from Portuguese: lua [ˈlu.(w)ɐ] meaning moon) is a lightweight, high-level, multi-paradigm programming language designed primarily for embedded use in applications.
+- Lisp: Lisp (historically LISP) is a family of programming languages with a long history and a distinctive, fully parenthesized prefix notation.
+
+O:
+- Objective-c: Objective-C is a general-purpose, object-oriented programming language that adds Smalltalk-style messaging to the C programming language.
 
 P:
 - Perl: Perl is a family of two high-level, general-purpose, interpreted, dynamic programming languages.
