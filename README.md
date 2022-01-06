@@ -20,7 +20,9 @@ C:
 - CSS: Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language such as HTML.
 
 D: 
+- D: D, also known as Dlang, is a multi-paradigm system programming language created by Walter Bright at Digital Mars and released in 2001.
 - Dart: Dart is a programming language designed for client development, such as for the web and mobile apps.
+- Dylan: Dylan is a multi-paradigm programming language that includes support for functional and object-oriented programming (OOP), and is dynamic and reflective while providing a programming model designed to support generating efficient machine code, including fine-grained control over dynamic and static behaviors
 
 E:
 - Elixr: Elixir is a functional, concurrent, general-purpose programming language that runs on the BEAM virtual machine which is also used to implement the Erlang programming language.
@@ -35,10 +37,7 @@ G:
 H:
 - Haskell: Haskell (/ˈhæskəl/) is a general-purpose, statically typed, purely functional programming language with type inference and lazy evaluation.
 - Html: The HyperText Markup Language, or HTML is the standard markup language for documents designed to be displayed in a web browser.
-
-L:
-- Lua (/ˈluːə/ LOO-ə; from Portuguese: lua [ˈlu.(w)ɐ] meaning moon) is a lightweight, high-level, multi-paradigm programming language designed primarily for embedded use in applications.
-
+s
 J:
 - Java: Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.
 - Javascript: JavaScript (/ˈdʒɑːvəˌskrɪpt/), often abbreviated JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS.
@@ -47,14 +46,18 @@ J:
 K:
 - Kotlin: Kotlin (/ˈkɒtlɪn/) is a cross-platform, statically typed, general-purpose programming language with type inference.
 
+L:
+- Lua (/ˈluːə/ LOO-ə; from Portuguese: lua [ˈlu.(w)ɐ] meaning moon) is a lightweight, high-level, multi-paradigm programming language designed primarily for embedded use in applications.
+
 P:
-- Python: Python is an interpreted high-level general-purpose programming language.
 - Perl: Perl is a family of two high-level, general-purpose, interpreted, dynamic programming languages.
 - Powershell: PowerShell or Microsoft PowerShell (formerly Windows PowerShell) is a task automation and configuration management program from Microsoft, consisting of a command-line shell and the associated scripting language.
 - Purescript: PureScript is a strongly-typed, purely-functional programming language that compiles to JavaScript.
+- Python: Python is an interpreted high-level general-purpose programming language.
 
 R:
 - R: R is a programming language for statistical computing and graphics supported by the R Core Team and the R Foundation for Statistical Computing.
+- Raku: Raku is a member of the Perl family of programming languages.
 - Ruby: Ruby is an interpreted, high-level, general-purpose programming language which supports multiple programming paradigms.
 - Rust: Rust is a multi-paradigm, general-purpose programming language designed for performance and safety, especially safe concurrency.
 
