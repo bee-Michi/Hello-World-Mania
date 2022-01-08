@@ -34,6 +34,7 @@ F:
 
 G: 
 - Go: Go is a statically typed, compiled programming language designed at Google by Robert Griesemer, Rob Pike, and Ken Thompson.
+- Groovy: Apache Groovy is a Java-syntax-compatible object-oriented programming language for the Java platform.
 
 H:
 - Haskell: Haskell (/ˈhæskəl/) is a general-purpose, statically typed, purely functional programming language with type inference and lazy evaluation.
