@@ -4,6 +4,7 @@ The ultimate compilations of all hello world programs.
 ## List of languages:
 A:
 - Applescipt: AppleScript is a scripting language created by Apple Inc.
+- Arduino: Arduino (/ɑːrˈdwiːnoʊ/) is an open-source hardware and software company, project, and user community that designs and manufactures single-board microcontrollers and microcontroller kits for building digital devices. Its hardware products are licensed under a CC-BY-SA license, while software is licensed under the GNU Lesser General Public License (LGPL) or the GNU General Public License (GPL), permitting the manufacture of Arduino boards and software distribution by anyone. Arduino boards are available commercially from the official website or through authorized distributors. 
 - Assembly: In computer programming, assembly language (or assembler language),sometimes abbreviated asm, is any low-level programming language in which there is a very strong correspondence between the instructions in the language and the architecture's machine code instructions.
 
 
@@ -79,7 +80,7 @@ V:
 Z:
 - ZSH: The Z shell (Zsh) is a Unix shell that can be used as an interactive login shell and as a command interpreter for shell scripting.
 
-Total languages: (40)
+Total languages: (41)
 
 (definitions taken from wikipidia.)
 
