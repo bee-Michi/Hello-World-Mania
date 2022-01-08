@@ -31,6 +31,7 @@ E:
 
 F: 
 - F#: F# (pronounced F sharp) is a functional-first, general purpose, strongly typed, multi-paradigm programming language that encompasses functional, imperative, and object-oriented programming methods. 
+- Fortran: ortran (/ˈfɔːrtræn/; formerly FORTRAN) is a general-purpose, compiled imperative programming language that is especially suited to numeric computation and scientific computing
 
 G: 
 - Go: Go is a statically typed, compiled programming language designed at Google by Robert Griesemer, Rob Pike, and Ken Thompson.
@@ -88,7 +89,7 @@ V:
 Z:
 - ZSH: The Z shell (Zsh) is a Unix shell that can be used as an interactive login shell and as a command interpreter for shell scripting.
 
-Total languages: (43)
+Total languages: (44)
 
 (definitions taken from wikipidia.)
 
