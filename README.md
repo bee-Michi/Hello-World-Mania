@@ -52,6 +52,9 @@ L:
 - Lua (/ˈluːə/ LOO-ə; from Portuguese: lua [ˈlu.(w)ɐ] meaning moon) is a lightweight, high-level, multi-paradigm programming language designed primarily for embedded use in applications.
 - Lisp: Lisp (historically LISP) is a family of programming languages with a long history and a distinctive, fully parenthesized prefix notation.
 
+M:
+- Matlab: MATLAB (an abbreviation of "MATrix LABoratory") is a proprietary multi-paradigm programming language and numeric computing environment developed by MathWorks.
+
 O:
 - Objective-c: Objective-C is a general-purpose, object-oriented programming language that adds Smalltalk-style messaging to the C programming language.
 
@@ -80,7 +83,7 @@ V:
 Z:
 - ZSH: The Z shell (Zsh) is a Unix shell that can be used as an interactive login shell and as a command interpreter for shell scripting.
 
-Total languages: (41)
+Total languages: (42)
 
 (definitions taken from wikipidia.)
 
