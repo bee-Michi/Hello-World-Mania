@@ -91,11 +91,12 @@ T:
 
 V: 
 - Vala: Vala is an object-oriented programming language with a self-hosting compiler that generates C code and uses the GObject system. 
+- Visulabasic: Visual Basic, originally called Visual Basic .NET (VB.NET), is a multi-paradigm, object-oriented programming language, implemented on .NET, Mono, and the .NET Framework.
 
 Z:
 - ZSH: The Z shell (Zsh) is a Unix shell that can be used as an interactive login shell and as a command interpreter for shell scripting.
 
-Total languages: (50)
+Total languages: (51)
 
 (definitions taken from wikipidia.)
 
