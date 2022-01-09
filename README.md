@@ -3,6 +3,7 @@ The ultimate compilations of all hello world programs.
 
 ## List of languages:
 A:
+- Ada: Ada is a structured, statically typed, imperative, and object-oriented high-level programming language, extended from Pascal and other languages.
 - Applescipt: AppleScript is a scripting language created by Apple Inc.
 - Arduino: Arduino (/ɑːrˈdwiːnoʊ/) is an open-source hardware and software company, project, and user community that designs and manufactures single-board microcontrollers and microcontroller kits for building digital devices. Its hardware products are licensed under a CC-BY-SA license, while software is licensed under the GNU Lesser General Public License (LGPL) or the GNU General Public License (GPL), permitting the manufacture of Arduino boards and software distribution by anyone. Arduino boards are available commercially from the official website or through authorized distributors. 
 - Assembly: In computer programming, assembly language (or assembler language),sometimes abbreviated asm, is any low-level programming language in which there is a very strong correspondence between the instructions in the language and the architecture's machine code instructions.
@@ -38,6 +39,7 @@ G:
 - Groovy: Apache Groovy is a Java-syntax-compatible object-oriented programming language for the Java platform.
 
 H:
+- Hack: Hack is a programming language for the HipHop Virtual Machine (HHVM), created by Facebook as a dialect of PHP. The language implementation is open-source, licensed under the MIT License.
 - Haskell: Haskell (/ˈhæskəl/) is a general-purpose, statically typed, purely functional programming language with type inference and lazy evaluation.
 - Html: The HyperText Markup Language, or HTML is the standard markup language for documents designed to be displayed in a web browser.
 
@@ -64,6 +66,7 @@ O:
 P:
 - Pascal: Pascal is an imperative and procedural programming language, designed by Niklaus Wirth as a small, efficient language intended to encourage good programming practices using structured programming and data structuring.
 - Perl: Perl is a family of two high-level, general-purpose, interpreted, dynamic programming languages.
+- Php: PHP is a general-purpose scripting language geared towards web development.
 - Powershell: PowerShell or Microsoft PowerShell (formerly Windows PowerShell) is a task automation and configuration management program from Microsoft, consisting of a command-line shell and the associated scripting language.
 - Purescript: PureScript is a strongly-typed, purely-functional programming language that compiles to JavaScript.
 - Python: Python is an interpreted high-level general-purpose programming language.
@@ -92,7 +95,7 @@ V:
 Z:
 - ZSH: The Z shell (Zsh) is a Unix shell that can be used as an interactive login shell and as a command interpreter for shell scripting.
 
-Total languages: (47)
+Total languages: (50)
 
 (definitions taken from wikipidia.)
 
