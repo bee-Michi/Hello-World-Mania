@@ -59,6 +59,7 @@ M:
 
 O:
 - Objective-c: Objective-C is a general-purpose, object-oriented programming language that adds Smalltalk-style messaging to the C programming language.
+- Object pascal: Object Pascal is an extension to the programming language Pascal that provides object-oriented programming (OOP) features such as classes and methods. 
 
 P:
 - Pascal: Pascal is an imperative and procedural programming language, designed by Niklaus Wirth as a small, efficient language intended to encourage good programming practices using structured programming and data structuring.
@@ -91,7 +92,7 @@ V:
 Z:
 - ZSH: The Z shell (Zsh) is a Unix shell that can be used as an interactive login shell and as a command interpreter for shell scripting.
 
-Total languages: (46)
+Total languages: (47)
 
 (definitions taken from wikipidia.)
 
