@@ -75,6 +75,7 @@ R:
 
 S:
 - Scala: Scala (/ˈskɑːlɑː/ SKAH-lah) is a strong statically typed general-purpose programming language which supports both object-oriented programming and functional programming.
+- Scheme: Scheme is a minimalist dialect of the Lisp family of programming languages.
 - Self: Self is an object-oriented programming language based on the concept of prototypes. 
 - Sql: SQL (/ˌɛsˌkjuːˈɛl/ (About this soundlisten) S-Q-L, /ˈsiːkwəl/ "sequel"; Structured Query Language) is a domain-specific language used in programming and designed for managing data held in a relational database management system (RDBMS), or for stream processing in a relational data stream management system (RDSMS). It is particularly useful in handling structured data, i.e. data incorporating relations among entities and variables.
 - Swift: Swift is a general-purpose, multi-paradigm, compiled programming language developed by Apple Inc.
@@ -89,7 +90,7 @@ V:
 Z:
 - ZSH: The Z shell (Zsh) is a Unix shell that can be used as an interactive login shell and as a command interpreter for shell scripting.
 
-Total languages: (44)
+Total languages: (45)
 
 (definitions taken from wikipidia.)
 
